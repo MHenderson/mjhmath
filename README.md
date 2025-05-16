@@ -1,3 +1,9 @@
+# Blog
+
+* [mjhmathblog](https://mhenderson.github.io/mjhmathblog/)
+
+---
+
 # Profiles
 
 * [Google Scholar](https://scholar.google.com/citations?user=S4a1LGAAAAAJ)
